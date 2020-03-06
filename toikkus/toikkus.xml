@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+
+	<!-- voiced by Tokkius from bay12forums -->
+	
+	<sound logPattern="(.+) has given birth to a ((((horse)|(donkey)) foal)|(((two-humped camel)|(one-humped camel)|(cow)|(bull)) calf)|(kitten)|(puppy))\." channel="notices">
+		<soundFile fileName="animals/animalbirth.mp3" />
+	</sound>
+	
+	<sound logPattern="An animal has grown to become a Stray ((Horse)|(Donkey)|(Two-humped Camel)|(One-humped Camel)|(Cow)|(Bull)|(Cat)|(Dog))\." channel="notices">
+		<soundFile fileName="animals/animalgrown.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has adopted (.+)\." channel="notices">
+		<soundFile fileName="animals/adopted.mp3" />
+	</sound>
+	
+	<sound logPattern="The Stray (.+) \(Tame\) has been struck down\." channel="notices">
+		<soundFile fileName="animals/animaldead.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) cancels Drink: Well dry\." channel="notices">
+		<soundFile fileName="fort/welldry.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) cancels Give Water: No water source\." channel="notices">
+		<soundFile fileName="fort/needwater.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) cancels (.+): (.+)\." concurency="5" channel="notices">
+		<soundFile fileName="dwarves/canceljob.mp3" />
+	</sound>
+
+	<sound logPattern="(.+) has created (.+), a (.+)!" channel="notices">
+		<soundFile fileName="dwarves/dwarfartifact.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has gone berserk!" channel="notices">
+		<soundFile fileName="dwarves/dwarfberserk.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has given birth to ((a boy)|(a girl)|(twins))\." channel="notices">
+		<soundFile fileName="dwarves/dwarfbirth.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has bled to death\." channel="notices">
+		<soundFile fileName="dwarves/dwarfbleddeath.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has been struck down\." channel="notices">
+		<soundFile fileName="dwarves/dwarfstruckdown.mp3" />
+		<soundFile fileName="dwarves/dwarfdead.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) is stricken by melancholy!" channel="notices">
+		<soundFile fileName="dwarves/dwarfmelancholy.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) is taken by a fey mood!" channel="notices">
+		<soundFile fileName="dwarves/dwarfmood.mp3" />
+	</sound>
+
+	<sound logPattern="(.+) withdraws from society\.\.\." channel="notices">
+		<soundFile fileName="dwarves/dwarfmood.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) begins to stalk and brood\.\.\." channel="notices">
+		<soundFile fileName="dwarves/dwarfmood.mp3" />
+	</sound>
+
+	<sound logPattern="(.+) has been possessed!" channel="notices">
+		<soundFile fileName="dwarves/dwarfmood.mp3" />
+	</sound>
+
+	<sound logPattern="(.+) looses a roaring laughter, fell and terrible!" channel="notices">
+		<soundFile fileName="dwarves/dwarfmood.mp3" />
+	</sound>
+	
+	<sound logPattern="An ambush!  Curse them!" channel="notices">
+		<soundFile fileName="fort/ambush.mp3" />
+	</sound>
+	
+	<sound logPattern="(Spring has arrived!)|(Spring has arrived on the calendar\.)" channel="notices">
+	 	<soundFile fileName="fort/spring.mp3" />
+	</sound>
+	
+	<sound logPattern="(It is now summer\.)|(Summer has arrived on the calendar\.)" channel="notices">
+	 	<soundFile fileName="fort/summer.mp3" />
+	</sound>
+	
+	<sound logPattern="(Autumn has come\.)|(Autumn has arrived on the calendar\.)" channel="notices">
+	 	<soundFile fileName="fort/autumn.mp3" />
+	</sound>
+	
+	<sound logPattern="(Winter is upon you\.)|(Winter has arrived on the calendar\.)" channel="notices">
+		<soundFile fileName="fort/winter.mp3" />
+	</sound>
+	
+	<sound logPattern="A caravan from (.+) has arrived\." channel="notices">
+		<soundFile fileName="fort/caravan.mp3" />
+	</sound>
+	 
+	<sound logPattern="A (.+) caravan from (.+) has arrived\." channel="notices">
+		<soundFile fileName="fort/caravan.mp3" />
+	</sound>
+	
+	<!-- TODO: criminal.mp3 -->
+	
+	<sound logPattern="(.+) has grown to become a Peasant\." channel="notices">
+		<soundFile fileName="fort/child-adult.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has grown to become a Dwarven Child\." channel="notices">
+		<soundFile fileName="fort/infant-child.mp3" />
+	</sound>
+	
+	<sound logPattern="The (.+) and the (.+) have married\.  Congratulations!" channel="notices">
+		<soundFile fileName="fort/marriage.mp3" />
+	</sound>
+	
+	<sound logPattern="A vile force of darkness has arrived!" channel="notices">
+		<soundFile fileName="fort/invaders.mp3" />
+	</sound>
+	
+	<sound logPattern="Some migrants have arrived\." channel="notices">
+		<soundFile fileName="fort/migrants.mp3" />
+	</sound>
+	
+	<sound logPattern="The fortress attracted no migrants this season\." channel="notices">
+		<soundFile fileName="fort/noarrivals.mp3" />
+	</sound>
+	
+	<!-- TODO: noalcohol.mp3 -->
+	<!-- TODO: noblecrime.mp3 -->
+	
+	<sound logPattern="(.+) has mandated the construction of certain goods\." channel="notices">
+		<soundFile fileName="fort/noblemandate.mp3" />
+	</sound>
+	
+	<!-- TODO: nobleimport.mp3 -->
+	<!-- TODO: nobleexport.mp3 -->
+	<!-- TODO: nobledemand.mp3 -->
+	
+	<sound logPattern="(.+) has ended a mandate\." channel="notices">
+		<soundFile fileName="fort/noblemandateend.mp3" />
+	</sound>
+	
+	<!-- TODO: nofood.mp3 -->
+	
+	<sound logPattern="The (.+) has organized a party at (.+)\." channel="notices">
+		<soundFile fileName="fort/par-tay.mp3" />
+	</sound>
+	
+	<sound logPattern="It has started raining\." channel="notices">
+	 	<soundFile fileName="fort/raining.mp3" />
+	</sound>
+	
+	<sound logPattern="The weather has cleared\." channel="notices">
+		<soundFile fileName="fort/weatherclear.mp3" />
+	</sound>
+	
+	<sound logPattern="Thief!  Protect the hoard from skulking filth!" channel="notices">
+		<soundFile fileName="fort/thief.mp3" />
+	</sound>
+	
+	<sound logPattern="You have struck ((onyx)|(morion)|(schorl)|(lace agate)|(blue jade)|(lapis lazuli)|(prase)|(prase opal)|(bloodstone)|(moss agate)|(moss opal)|(variscite)|(chrysoprase)|(chrysocolla)|(sard)|(carnelian)|(banded agate)|(sardonyx)|(cherry opal)|(lavender jade)|(pink jade)|(tube agate)|(fire agate)|(plume agate)|(brown jasper)|(picture jasper)|(smoky quartz)|(wax opal)|(wood opal)|(amber opal)|(gold opal)|(citrine)|(yellow jasper)|(tigereye)|(tiger iron)|(sunstone)|(resin opal)|(pyrite)|(clear tourmaline)|(gray chalcedony)|(dendritic agate)|(shell opal)|(bone opal)|(white chalcedony)|(fortification agate)|(milk quartz)|(moonstone)|(white jade)|(jasper opal)|(pineapple opal)|(onyx opal)|(milk opal)|(pipe opal)|(aventurine)|(turquoise)|(rose quartz)|(rock crystal)|(black zircon)|(black pyrope)|(melanite)|(indigo tourmaline)|(blue garnet)|(tsavorite)|(green tourmaline)|(demantoid)|(green zircon)|(green jade)|(heliodor)|(peridot)|(red zircon)|(red tourmaline)|(red pyrope)|(almandine)|(red grossular)|(pink tourmaline)|(red beryl)|(fire opal)|(rhodolite)|(purple spinel)|(alexandrite)|(tanzanite)|(morganite)|(violet spessartine)|(pink garnet)|(kunzite)|(cinnamon grossular)|(honey yellow beryl)|(jelly opal)|(brown zircon)|(yellow zircon)|(golden beryl)|(yellow spessartine)|(topaz)|(topazolite)|(yellow grossular)|(rubicelle)|(clear garnet)|(goshenite)|(clear zircon)|(amethyst)|(aquamarine)|(red spinel)|(chrysoberyl)|(precious fire opal)|(red flash opal)|(black opal)|(white opal)|(crystal opal)|(claro opal)|(levin opal)|(harlequin opal)|(pinfire opal)|(bandfire opal)|(light yellow diamond)|(faint yellow diamond)|(emerald)|(ruby)|(sapphire)|(clear diamond)|(red diamond)|(green diamond)|(blue diamond)|(yellow diamond)|(black diamond)|(star sapphire)|(star ruby))!" channel="notices">
+		<soundFile fileName="fort/struckgem.mp3" />
+		<soundFile fileName="fort/oohshiny.mp3" />
+	</sound>
+	
+	<sound logPattern="You have struck ((hematite)|(limonite)|(garnierite)|(native gold)|(native silver)|(native copper)|(malachite)|(galena)|(sphalerite)|(cassiterite)|(native platinum)|(tetrahedrite)|(horn silver)|(bismuthinite)|(magnetite)|(native aluminum))!" channel="notices">
+		<soundFile fileName="fort/struckmetal.mp3" />
+	</sound>
+	
+</sounds>

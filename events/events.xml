@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+
+	<sound logPattern="The (.+) has organized a party at (.+)\." channel="music">
+		<soundFile fileName="simonswerwer/Simon Swerwer-The Tankard Basher-mini_fastvariable65-105kbps_stereo.mp3" />
+	</sound>
+
+</sounds>

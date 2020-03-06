@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+
+	<!-- voiced by Tokkius from bay12forums -->
+	
+	<sound logPattern="No food available\." channel="notices">
+		<soundFile fileName="food1.mp3" />
+	</sound>
+	
+	<sound logPattern="The (.+) has come!  A (.+)\." channel="notices">
+		<soundFile fileName="attacked4.mp3" />
+	</sound>
+
+	<sound logPattern="A vile force of darkness has arrived!" channel="notices">
+		<soundFile fileName="attacked1.mp3" />
+		<soundFile fileName="attacked2.mp3" />
+		<soundFile fileName="attacked3.mp3" />
+		<soundFile fileName="attacked4.mp3" />	
+	</sound>
+	
+	<sound logPattern="An ambush!  Curse them!" channel="notices">
+		<soundFile fileName="attacked1.mp3" />
+		<soundFile fileName="attacked2.mp3" />
+		<soundFile fileName="attacked3.mp3" />
+		<soundFile fileName="attacked4.mp3" />
+	</sound>
+
+	<sound logPattern="A kidnapper has made off with (.+)!" channel="notices">
+		<soundFile fileName="attacked1.mp3" />
+		<soundFile fileName="attacked2.mp3" />
+		<soundFile fileName="attacked3.mp3" />
+		<soundFile fileName="attacked4.mp3" />
+	</sound>
+	
+	<sound logPattern="Snatcher!( ?) Protect the children!" channel="notices">
+		<soundFile fileName="attacked1.mp3" />
+		<soundFile fileName="attacked2.mp3" />
+		<soundFile fileName="attacked3.mp3" />
+		<soundFile fileName="attacked4.mp3" />
+	</sound>
+
+	<sound logPattern="Thief!  Protect the hoard from skulking filth!" channel="notices">
+		<soundFile fileName="attacked1.mp3" />
+		<soundFile fileName="attacked2.mp3" />
+		<soundFile fileName="attacked3.mp3" />
+		<soundFile fileName="attacked4.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has given birth to a boy\." channel="notices">
+		<soundFile fileName="baby1.mp3" />
+		<soundFile fileName="baby2.mp3" />
+		<soundFile fileName="baby4.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has given birth to a girl\." channel="notices">
+		<soundFile fileName="baby1.mp3" />
+		<soundFile fileName="baby2.mp3" />
+		<soundFile fileName="baby4.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) has given birth to twins\." channel="notices">
+		<soundFile fileName="baby7.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) cancels (.+): Interrupted by (.+)\." channel="notices">
+		<soundFile fileName="cancelinterrupt1.mp3" />
+		<soundFile fileName="cancelinterrupt2.mp3" />
+		<soundFile fileName="cancelinterrupt3.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) cancels (.+): Item inaccessible\." channel="notices">
+		<soundFile fileName="cancelreach1.mp3" />
+		<soundFile fileName="cancelreach2.mp3" />
+		<soundFile fileName="cancelreach3.mp3" />
+		<soundFile fileName="cancelreach4.mp3" />
+	</sound>
+	
+	<sound logPattern="(.+) cancels (.+): Need(s?) (.+)\." channel="notices">
+		<soundFile fileName="cancelitem1.mp3" />
+		<soundFile fileName="cancelitem2.mp3" />
+		<soundFile fileName="cancelitem3.mp3" />
+		<soundFile fileName="cancelitem4.mp3" />
+	</sound>
+	
+	<sound logPattern="There is nothing to catch in the (.+)\." channel="notices">
+		<soundFile fileName="fish1.mp3" />
+		<soundFile fileName="fish2.mp3" />
+		<soundFile fileName="fish3.mp3" />
+		<soundFile fileName="fish4.mp3" />
+	</sound>
+	
+	<sound logPattern="Some migrants have arrived\." channel="notices">
+		<soundFile fileName="migrants1.mp3" />
+		<soundFile fileName="migrants2.mp3" />
+		<soundFile fileName="migrants3.mp3" />
+	</sound>
+	
+	<sound logPattern="Some migrants have arrived, despite the danger\." channel="notices">
+		<soundFile fileName="migrants1.mp3" />
+		<soundFile fileName="migrants2.mp3" />
+		<soundFile fileName="migrants3.mp3" />
+	</sound>
+	
+	<sound logPattern="Some migrants have decided to brave this terrifying place, knowing it may be their tomb\." channel="notices">
+		<soundFile fileName="migrants1.mp3" />
+		<soundFile fileName="migrants2.mp3" />
+		<soundFile fileName="migrants3.mp3" />
+	</sound>
+	
+</sounds>

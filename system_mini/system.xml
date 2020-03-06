@@ -1,0 +1,36 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<sounds defaultAnsiFormat="&#27;[33;1m">
+	
+	<sound logPattern="\*\*\* STARTING NEW GAME \*\*\*" channel="music" loop="stop" playbackThreshhold="0">
+		<!-- http://opengameart.org/content/radakan-moldan-chase-over-success -->
+		<soundFile fileName="Radakan - Moldan Chase over (success).mp3" />
+	</sound>
+	
+	<sound logPattern="Generating world using parameter set (.+)" channel="music" loop="stop" playbackThreshhold="0">
+		<soundFile fileName="Crypto_45sec_fastvariable65-105_stereo.mp3" >
+			<attribution url="https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600013" license="CC BY 3.0" author="Kevin MacLeod" description="Crypto" />
+		</soundFile>
+	</sound>
+	
+	<sound logPattern="\*\* Starting New Outpost \*\*" haltOnMatch="false" playbackThreshhold="3">
+		<!-- original rainseeker and toikkus :) -->
+		<soundFile fileName="embark/embark1.mp3" />
+		<soundFile fileName="embark/embark_02.mp3" />
+		<soundFile fileName="embark/embark4.mp3" />
+		<soundFile fileName="embark/embark_06.mp3" />
+		<soundFile fileName="embark/embark_10.mp3" />
+	</sound>
+	
+	<sound logPattern="\*\* Starting New Outpost \*\*" loop="start" playbackThreshhold="0">
+	</sound>
+	
+	<sound logPattern="\*\* Starting Reclaim \*\*" loop="start" playbackThreshhold="0">
+	</sound>
+
+	<sound logPattern="\*\* Loading Fortress \*\*" loop="start" playbackThreshhold="0">
+	</sound>
+	
+	<sound logPattern="\*\* Starting New Arena \*\*" loop="start" playbackThreshhold="0">
+	</sound>
+	
+</sounds>

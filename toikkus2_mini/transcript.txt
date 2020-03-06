@@ -1,0 +1,29 @@
+Embark Arrive - "We have arrived. Strike the earth!" "We are here, finally." "Be wary, friend, this place looks dangerous." "The journey was difficult, but we have arrived safely."
+
+Migrants Arrive - "Some fellows have arrived seeking residence." "Travelers have appeared. New comrades, perhaps?" "We have some new workers from the Mountainhome."
+
+Enemies Arrive - "Enemies at the gates!" "Foul scum! We are under attack!" "Beware! Enemies abound!" "Wicked beasts! Fell them now!"
+
+Discovered Stone - "We've struck a new stone." "The miners have found a new stone." "What's this? A new stone." "Wonderful. New minerals."
+
+Discovered Gem - "Ahh, shiny." "More gems for the gem g-... ahem." "More work for the gemcutters!" "New gems. Good work." "Sparkle, sparkle, shiny brights!"
+
+Out of Food - "Our food supplies are low!" "We are out of food. Take care of it." "We are running out of food!"
+
+Out of Booze - "We have no more alcohol." "Our booze supplies are depleted." "Brew something. Fast."
+
+Out of Meat - "We have run out of meat." "We need to slaughter something. Uh..." "The butcher is slacking!" "We need more meat."
+
+Out of Fish - "We have run out of fish." "We need to catch some fish." "Berate the fisherman." "Is the fisherman asleep?"
+
+Out of Plants - "We have run out of plants." "We need to gather plants." "We need more crops." "Farm something. Quickly."
+
+Task Canceled; Supplies - "We don't have what we need for that." "A dwarf is missing supplies." "A dwarf can't do that without supplies." "We can't do that without supplies."
+
+Task Canceled; Access - "A dwarf can't reach that." "We can't reach that spot." "A dwarf needs access to that spot." "A task is out of reach."
+
+Task Canceled; Interrupt - "A dwarf has been interrupted." "Blast it. An interruption." "Somebody's pestering a busy dwarf."
+
+Task Canceled; Other - "A dwarf canceled a task." "A dwarf abandoned a task." "A dwarf can't do something he needs to." "Oh, wonderful. Another interruption."
+
+New Child - "A child has been born." "Yet another bouncing baby dwarf." "We have a new dwarf. It's rather small, isn't it?" "A mother has given birth." "Oh great. More mouths to feed." "I hope this one is cleaner than the last." "Does its head look funny to you?"
