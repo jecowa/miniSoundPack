@@ -27,9 +27,9 @@
 		<soundFile fileName="fort/needwater.mp3" />
 	</sound>
 	
-	<sound logPattern="(.+) cancels (.+): (.+)\." concurency="5" channel="notices">
+	<!-- <sound logPattern="(.+) cancels (.+): (.+)\." concurency="5" channel="notices">
 		<soundFile fileName="dwarves/canceljob.mp3" />
-	</sound>
+	</sound> -->
 
 	<sound logPattern="(.+) has created (.+), a (.+)!" channel="notices">
 		<soundFile fileName="dwarves/dwarfartifact.mp3" />
@@ -122,9 +122,9 @@
 		<soundFile fileName="fort/invaders.mp3" />
 	</sound>
 	
-	<sound logPattern="Some migrants have arrived\." channel="notices">
+	<!-- <sound logPattern="Some migrants have arrived\." channel="notices">
 		<soundFile fileName="fort/migrants.mp3" />
-	</sound>
+	</sound> -->
 	
 	<sound logPattern="The fortress attracted no migrants this season\." channel="notices">
 		<soundFile fileName="fort/noarrivals.mp3" />
